@@ -8,5 +8,10 @@ namespace WebAPI2023.Areas.AreaName.Controllers
         {
             return Ok();
         }
+
+        public IActionResult Test()
+        {
+            return Ok();
+        }
     }
 }
