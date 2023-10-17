@@ -1,0 +1,16 @@
+C:\Users\jim.liu123\Desktop\Jim\project\WebAPI2023\infrastructure\bin\Debug\net8.0\infrastructure.deps.json
+C:\Users\jim.liu123\Desktop\Jim\project\WebAPI2023\infrastructure\bin\Debug\net8.0\infrastructure.dll
+C:\Users\jim.liu123\Desktop\Jim\project\WebAPI2023\infrastructure\bin\Debug\net8.0\infrastructure.pdb
+C:\Users\jim.liu123\Desktop\Jim\project\WebAPI2023\infrastructure\obj\Debug\net8.0\infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jim.liu123\Desktop\Jim\project\WebAPI2023\infrastructure\obj\Debug\net8.0\infrastructure.AssemblyInfoInputs.cache
+C:\Users\jim.liu123\Desktop\Jim\project\WebAPI2023\infrastructure\obj\Debug\net8.0\infrastructure.AssemblyInfo.cs
+C:\Users\jim.liu123\Desktop\Jim\project\WebAPI2023\infrastructure\obj\Debug\net8.0\infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\jim.liu123\Desktop\Jim\project\WebAPI2023\infrastructure\obj\Debug\net8.0\infrastructure.sourcelink.json
+C:\Users\jim.liu123\Desktop\Jim\project\WebAPI2023\infrastructure\obj\Debug\net8.0\infrastructure.dll
+C:\Users\jim.liu123\Desktop\Jim\project\WebAPI2023\infrastructure\obj\Debug\net8.0\refint\infrastructure.dll
+C:\Users\jim.liu123\Desktop\Jim\project\WebAPI2023\infrastructure\obj\Debug\net8.0\infrastructure.pdb
+C:\Users\jim.liu123\Desktop\Jim\project\WebAPI2023\infrastructure\obj\Debug\net8.0\ref\infrastructure.dll
+C:\Users\jim.liu123\Desktop\Jim\project\WebAPI2023\infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Users\jim.liu123\Desktop\Jim\project\WebAPI2023\infrastructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\jim.liu123\Desktop\Jim\project\WebAPI2023\infrastructure\obj\Debug\net8.0\infrastructure.csproj.AssemblyReference.cache
+C:\Users\jim.liu123\Desktop\Jim\project\WebAPI2023\infrastructure\obj\Debug\net8.0\infrastructure.csproj.CopyComplete

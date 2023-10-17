@@ -1,8 +1,5 @@
-Asp.Net Core
-==============
-###### version：8
-
----
+# Asp.Net Core
+#### version：8
 
 ## Asp.net Core比較Asp.net
 ||Asp.net Core|Asp.net|
@@ -23,7 +20,8 @@ Asp.Net Core
 ### Host
 以前的版本寫法是這樣，會有main這個方法程式進入點。
 呼叫CreateWebHostBuilder，裡面主要做
-<pre style="background:#ededec;color:black;">
+
+```
 public class Program
 {
     public static void Main(string[] args)
@@ -35,11 +33,13 @@ public class Program
         WebHost.CreateDefaultBuilder(args)
             .UseStartup<Startup>();
 }
-</pre>
+```
 
 
 ref：
 https://learn.microsoft.com/zh-tw/aspnet/core/fundamentals/host/web-host?view=aspnetcore-7.0
 https://www.cnblogs.com/xiaoxiaotank/p/15273093.html
+
+## Web API Vs Web MVC (Area)
 
 ![測試圖示]()

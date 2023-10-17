@@ -30,3 +30,10 @@ C:\Users\jim.liu123\Desktop\Jim\project\WebAPI2023\WebAPI2023\obj\Debug\net8.0\r
 C:\Users\jim.liu123\Desktop\Jim\project\WebAPI2023\WebAPI2023\obj\Debug\net8.0\WebAPI2023.pdb
 C:\Users\jim.liu123\Desktop\Jim\project\WebAPI2023\WebAPI2023\obj\Debug\net8.0\WebAPI2023.genruntimeconfig.cache
 C:\Users\jim.liu123\Desktop\Jim\project\WebAPI2023\WebAPI2023\obj\Debug\net8.0\ref\WebAPI2023.dll
+C:\Users\jim.liu123\Desktop\Jim\project\WebAPI2023\WebAPI2023\obj\Debug\net8.0\WebAPI2023.sourcelink.json
+C:\Users\jim.liu123\Desktop\Jim\project\WebAPI2023\WebAPI2023\bin\Debug\net8.0\Domain.dll
+C:\Users\jim.liu123\Desktop\Jim\project\WebAPI2023\WebAPI2023\bin\Debug\net8.0\infrastructure.dll
+C:\Users\jim.liu123\Desktop\Jim\project\WebAPI2023\WebAPI2023\bin\Debug\net8.0\Domain.pdb
+C:\Users\jim.liu123\Desktop\Jim\project\WebAPI2023\WebAPI2023\bin\Debug\net8.0\infrastructure.pdb
+C:\Users\jim.liu123\Desktop\Jim\project\WebAPI2023\WebAPI2023\obj\Debug\net8.0\WebAPI2023.RazorAssemblyInfo.cache
+C:\Users\jim.liu123\Desktop\Jim\project\WebAPI2023\WebAPI2023\obj\Debug\net8.0\WebAPI2023.RazorAssemblyInfo.cs

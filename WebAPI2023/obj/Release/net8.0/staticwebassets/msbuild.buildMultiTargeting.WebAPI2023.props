@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebAPI2023.props" />
+</Project>

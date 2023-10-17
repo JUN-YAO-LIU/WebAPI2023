@@ -1,16 +1,30 @@
-using Microsoft.AspNetCore.Mvc.ApiExplorer;
+using Infrastructure.CustomerConfiguration.Google;
 
+[assembly: HostingStartup(typeof(Infrastructure.CustomerConfiguration.AddConfigurations))]
 var builder = WebApplication.CreateBuilder(args);
-var host = builder.Host;
+
+// 加入組態設定
+builder.Services.ConfigureGoogleService(builder.Configuration);
 
 // Add services to the container.
 
 builder.Services.AddControllers();
+builder.Services.AddMvc();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
+
+//builder.Services.AddCors(options =>
+//{
+//    options.AddPolicy(name: "",
+//                      policy =>
+//                      {
+//                          policy.WithOrigins("http://example.com",
+//                                              "http://www.contoso.com");
+//                      });
+//});
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
